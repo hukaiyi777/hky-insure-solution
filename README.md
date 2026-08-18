@@ -22,3 +22,19 @@ copy /Y * %USERPROFILE%\.workbuddy\skills\hky-insure-solution\
 
 ## Demo
 见 `demo/示例-养老与传承风险解决方案.docx`
+
+## 效果示例
+![养老与传承风险解决方案示例](images/solution-preview.png)
+
+> 上图为封面示意。真实渲染见 `demo/示例-养老与传承风险解决方案.docx`（用 Word / WPS 打开导出首页截图即可替换本图）。
+
+## 服务链（hky 三件套）
+本技能是「养老与传承顾问三件套」的**下游**：
+
+1. [hky-meeting-notes](https://github.com/hukaiyi777/hky-meeting-notes) — 客户沟通 → 结构化会谈纪要（上游）
+2. [hky-insure-risk-report](https://github.com/hukaiyi777/hky-insure-risk-report) — 纪要 → 暖黄版风险评估报告（中游）
+3. **hky-insure-solution（本仓库）** — 报告 + 二次沟通 → 可落地解决方案
+
+> 三件套彼此独立、可分别安装，建议按 1→2→3 顺序串联使用。
+
+品牌：清流计划 · 胡开奕（MIT 许可）
